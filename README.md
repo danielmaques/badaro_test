@@ -11,9 +11,11 @@ A organização do código-fonte seguirá a seguinte estrutura de pastas:
   - home/
     - ui/
         - page/
+
   - chat/
     - ui/
         - page/
+
   - main.dart
 ```
 
@@ -29,7 +31,7 @@ O gerenciamento de estado será realizado com o uso de:
 
 ## Injeção de Dependência
 
-Utilizaremos o framework **Modular** para facilitar a injeção de dependência e organizar a estrutura de módulos.
+Utilizei o framework **Modular** para facilitar a injeção de dependência e organizar a estrutura de módulos.
 
 ## Design system
 
