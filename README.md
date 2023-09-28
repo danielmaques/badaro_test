@@ -1,8 +1,4 @@
-## Resumo Executivo
-
-O projeto [Nome do Projeto] visa [descreva brevemente o propósito e os objetivos do seu aplicativo]. Neste relatório, apresentaremos a arquitetura de solução que planejamos desenvolver, incluindo detalhes sobre as tecnologias, frameworks, integrações com serviços, infraestrutura e outros elementos-chave.
-
-### Estrutura de Pastas
+## Estrutura de Pastas
 
 A organização do código-fonte seguirá a seguinte estrutura de pastas:
 
